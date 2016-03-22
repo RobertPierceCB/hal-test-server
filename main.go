@@ -1,4 +1,4 @@
-package main
+package main  // import "github.com/RobertPierceCB/hal-test-server"
 
 import (
 	"fmt"
